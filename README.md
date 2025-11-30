@@ -1,3 +1,4 @@
+# Áp dụng thuật toán FA vào bài toán cụ thể
 ## 📉 Bài Toán Quy Hoạch Phi Tuyến 2 Chiều (NLP 2D)
 
 Đây là một ví dụ về Bài toán Quy hoạch Phi tuyến tính (Nonlinear Programming - NLP) nhằm mục đích cực tiểu hóa một hàm mục tiêu lồi bị ràng buộc bởi các điều kiện bất đẳng thức phi tuyến.
