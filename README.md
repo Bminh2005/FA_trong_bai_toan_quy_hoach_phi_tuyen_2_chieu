@@ -37,13 +37,22 @@ $$\mathbf{fbest} = 9 - 4\sqrt{5} \approx 0.0557$$
 
 ## Kết quả thực hiện thuật toán trên Mathlab
 ### Ở vòng lặp k = 1
+![Minh họa kết quả chạy Mathlab](Result_Image/cv1.png)
 ### Ở vòng lặp k = 10
+![Minh họa kết quả chạy Mathlab](Result_Image/cv2.png)
 ### Ở vòng lặp k = 20
+![Minh họa kết quả chạy Mathlab](Result_Image/cv3.png)
 ### Ở vòng lặp k = 50
+![Minh họa kết quả chạy Mathlab](Result_Image/cv4.png)
 ### Ở vòng lặp k = 100
+![Minh họa kết quả chạy Mathlab](Result_Image/cv5.png)
 ### Ở vòng lặp k = 150
+![Minh họa kết quả chạy Mathlab](Result_Image/cv6.png)
 ### Ở vòng lặp k = 200
+![Minh họa kết quả chạy Mathlab](Result_Image/cv7.png)
 ### Ở vòng lặp k = 250
+![Minh họa kết quả chạy Mathlab](Result_Image/cv8.png)
 ### Ở vòng lặp k = 300 (MAX_ITER)
+![Minh họa kết quả chạy Mathlab](Result_Image/cv9.png)
 
 
