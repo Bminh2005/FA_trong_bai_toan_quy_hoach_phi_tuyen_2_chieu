@@ -28,3 +28,5 @@ x_1^2 + x_2^2 \le 4
 $$
 
 > **Giải thích:** Đây là miền bên trong và trên chu vi của một hình tròn có tâm tại gốc tọa độ $(0, 0)$ với bán kính $R = 2$.
+### 3. Kết quả mong đợi
+$$\mathbf{nbest} = \left( \frac{2}{\sqrt{5}}, \frac{4}{\sqrt{5}} \right) \approx (0.894, 1.789)$$
